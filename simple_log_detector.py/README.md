@@ -27,10 +27,6 @@ Make sure a `sample.log` file exists in the same directory.
 [Line 2] Suspicious pattern (denied) → Connection denied to database
 ```
 
-## 🧩 Next Steps
-- Extend with regex-based pattern detection
-- Count suspicious IPs or repetitive attack patterns
-
 ---
 **Author:** Amin Kaviri  
 **Project:** security-scripts  
